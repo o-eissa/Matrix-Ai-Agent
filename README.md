@@ -8,3 +8,7 @@ Our goal is to save the most number of hostages without having to kill any enemi
 There are pads to teleport from a location in the grid to another, and health pills.
 
 The starting and ending postion of Neo is the Telephone booth.
+
+
+
+The 2nd implementation is coded in Prolog with less constraints, no enemies, pills or pads, and the grid size in constant.
